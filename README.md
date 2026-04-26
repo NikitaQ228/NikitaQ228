@@ -30,7 +30,7 @@
 | **Web Labs** | Серия лабораторных работ: адаптивное веб-портфолио, валидация форм, асинхронные запросы, CSS-анимации, работа с Flexbox/Grid. Демонстрирует владение современным фронтендом. | `HTML5` `CSS3` `JavaScript` `Flexbox` `Grid` `Async/Await` | [Code](https://github.com/NikitaQ228/web6401-baboshin_na) |
 
 ## 🎓 Education & Certificates
-- 🎓 **[Your University]** — Applied Mathematics and Computer Science, `2026`
+- 🎓 **Samara National Research University** — Applied Mathematics and Computer Science, `2026`
 - 📜 **Машинное обучение** — Яндекс Специализация, `2025`
 - 📜 **Java. Базовый курс** — Stepik, `2025`
 - 📜 **Профессия: Аналитик данных** — Naumen, `2025`
