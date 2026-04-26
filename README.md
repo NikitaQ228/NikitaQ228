@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitaq228&show_icons=true&theme=radical&hide_border=true" alt="Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaq228&theme=radical&hide_border=true" alt="Streak Stats" height="150"/>
-</p>
-
 ## 📌 Featured Projects
 | Проект | Описание | Стек | Ссылка |
 |--------|----------|------|--------|
