@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nikita Baboshin
 📍 Based in Russia &nbsp;|&nbsp;
+📧 <a href="mailto:baboshinikki90@gmail.com">baboshinikki90@gmail.com</a>
 
 ## 🛠️ Languages & Tools
 <p align="center">
