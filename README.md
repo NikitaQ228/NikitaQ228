@@ -22,6 +22,7 @@
 | **Avoided Connections** | «Антисоциальная сеть»: платформа для публикации историй о людях, которых вы избегали. Полный цикл: аутентификация, посты, комментарии, теги, загрузка изображений. | `Spring Boot` `Java` `PostgreSQL` `Nginx` `Docker` `REST API` | [Code](https://github.com/NikitaQ228/avoidedconnections) |
 | **Learn & Play** | Образовательная платформа с геймификацией для подготовки к ОГЭ. Уровневая система, квесты, профиль с достижениями. *(командный проект)* | `Spring Boot` `Java` `PostgreSQL` | [Code](https://github.com/TheStorm13/Learn-Play-Web) |
 | **AI Labs** | Коллекция лабораторных работ по машинному обучению: реализация SVM, ансамблей, PCA, t-SNE, MLP, CNN с нуля и через Keras. | `Python` `NumPy` `TensorFlow/Keras` `Jupyter` `scikit-learn` | [Code](https://github.com/NikitaQ228/Artificial-Intelligence-technologies) |
+| **PredictorChurn** | Выпускная квалификационноя работа бакалавра на тему: «Анализ и прогнозирование оттока клиентов в сфере электронной коммерции с использованием методов машинного обучения». | `Streamlit`, `XGBoost`, `SHAP`, `Joblib`, `scikit-learn`, `Plotly`, `Pandas` | [Code](https://github.com/NikitaQ228/PredictorChurn) |
 | **Web Labs** | Серия лабораторных работ: адаптивное веб-портфолио, валидация форм, асинхронные запросы, CSS-анимации, работа с Flexbox/Grid. Демонстрирует владение современным фронтендом. | `HTML5` `CSS3` `JavaScript` `Flexbox` `Grid` `Async/Await` | [Code](https://github.com/NikitaQ228/web6401-baboshin_na) |
 
 ## 🎓 Education & Certificates
